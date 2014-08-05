@@ -29,9 +29,7 @@ Updates:
   
 	Click "Clear" to clear what you have written.
 	
-	You have to configure the links yourself.
-	
-	Added live preview for all version.
+	Added live previews for all versions.
 
 
 Preview: 
