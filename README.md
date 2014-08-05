@@ -7,8 +7,8 @@ Adapted from:
 
 Base Versions:
 
-- [Default Version](http://bokagha.github.io/Startpages/default/startpage.html)
-/  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/default)
+- [Default Version](http://bokagha.github.io/Startpages/kat-startpage/startpage.html)
+/  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/kat-startpage)
 
 - [No Note Preview](http://bokagha.github.io/Startpages/no-note/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/no-note)
