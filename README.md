@@ -1,7 +1,6 @@
 Kat-Startpage
 =============
 Adapted from:
-
   	[Gokoururi](https://github.com/gokoururi/homepage) 
   	
   	[JackosDev](https://github.com/JackosDev/Minimo-Homepage)
