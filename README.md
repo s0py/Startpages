@@ -4,7 +4,7 @@ Adapted from:
 
  - [Gokoururi](https://github.com/gokoururi/homepage) 
   	
- -[JackosDev](https://github.com/JackosDev/Minimo-Homepage)
+ - [JackosDev](https://github.com/JackosDev/Minimo-Homepage)
 
 Base Versions:
 
