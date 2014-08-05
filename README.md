@@ -18,7 +18,7 @@ Base Versions:
 
 Other Versions:
 
-- [Blue Recolor](#blank)
+- [Blue Recolor](http://bokagha.github.io/Kat-Startpage/blue/startpage.html)
 
 Updates:
 
