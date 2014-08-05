@@ -10,8 +10,11 @@ Updates:
 Kat-Startpage:
 =============
 Versions:
+
 	Kat-Startpage
+	
 	No-Note
+	
 	Sticky-Note	    	
 
 - [Kat-Startpage](http://bokagha.github.io/Startpages/kat-startpage/startpage.html)
