@@ -8,6 +8,9 @@ Updates:
   	
   	
 Kat-Startpage:
+-Kat-Startpage
+-No-Note
+-Sticky-Note
 =============
 - [Kat-Startpage](http://bokagha.github.io/Startpages/kat-startpage/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/kat-startpage)
@@ -21,6 +24,7 @@ Color Scheme is based on:
 
 - [No Note Preview](http://bokagha.github.io/Startpages/no-note/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/no-note)
+
 Preview: 
 ![Alt text](/kat-startpage-no-note-preview.png)
 
