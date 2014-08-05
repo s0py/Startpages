@@ -10,6 +10,8 @@ A simple startpage for desktop and mobile devices.
 
 You have to configure the links yourself.
 
+Preview: http://bokagha.github.io/Kat-Startpage/startpage.html
+
 Update:
 
   	Added a new side bar. Hover over dusty (the cat) and a sidebar will roll out.
