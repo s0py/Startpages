@@ -1,7 +1,7 @@
 Startpages
 =============
 Index:
-- [Updates](https://github.com/Bokagha/Startpages#Updates)
+- [Updates](https://github.com/Bokagha/Startpages#updates)
 - [Kat-Startpage](https://github.com/Bokagha/Startpages#kat-startpage)
   - 	No-Note
   - 	Sticky-Note
