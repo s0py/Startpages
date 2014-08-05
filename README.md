@@ -21,13 +21,13 @@ Versions:
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/kat-startpage)
 
 Preview: 
-![Alt text](/kat-startpage-preview.png)
+![Alt text](/Preview Images/kat-startpage-preview.png)
 
 - [No Note Preview](http://bokagha.github.io/Startpages/no-note/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/no-note)
 
 Preview: 
-![Alt text](/kat-startpage-no-note-preview.png)
+![Alt text](/Preview Images/kat-startpage-no-note-preview.png)
 
 - [Sticky Note Preview](http://bokagha.github.io/Startpages/sticky-note/stickynote.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/sticky-note)
