@@ -32,6 +32,9 @@ Preview:
 - [Sticky Note Preview](http://bokagha.github.io/Startpages/sticky-note/stickynote.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/sticky-note)
 
+Preview: 
+![Alt text](/Preview Images/sticky-note-preview.png)
+
 Other Versions:
 
 - [Blue Recolor](http://bokagha.github.io/Startpages/blue/startpage.html)
