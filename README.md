@@ -6,7 +6,13 @@ Adapted from:
   [Gokoururi](https://github.com/gokoururi/homepage) and
   [JackosDev](https://github.com/JackosDev/Minimo-Homepage)
 
-[Preview](http://bokagha.github.io/Kat-Startpage/startpage.html)
+[Default Preview](http://bokagha.github.io/Kat-Startpage/default/startpage.html)
+[No Note Preview]()
+[Sticky Note Preview]()
+
+Other Versions:
+
+[Blue Recolor]()
 
 Update:
 
