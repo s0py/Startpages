@@ -21,6 +21,8 @@ Color Scheme is based on:
 
 - [No Note Preview](http://bokagha.github.io/Startpages/no-note/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/no-note)
+Preview: 
+![Alt text](/kat-startpage-no-note-preview.png)
 
 - [Sticky Note Preview](http://bokagha.github.io/Startpages/sticky-note/stickynote.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/sticky-note)
