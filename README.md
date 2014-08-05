@@ -40,7 +40,14 @@ Blue-Startpage:
 - [Blue-Startpage](http://bokagha.github.io/Startpages/blue/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/blue) 
 
+Preview: 
+![Alt text](/Preview Images/blue-startpage-preview.png)
 
+Old Designs (Not Flexible):
+=============
+- [Simple Columns](http://bokagha.github.io/Kat-Startpage/simple/startpage.html)
+/  [Code](https://github.com/Bokagha/Kat-Startpage/tree/gh-pages/simple) 
 
-
+Preview: 
+![Alt text](/Preview Images/simple-columns-preview.png)
 
