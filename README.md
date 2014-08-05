@@ -35,7 +35,8 @@ Preview:
 Preview: 
 ![Alt text](/Preview Images/sticky-note-preview.png)
 
-Other Versions:
+Blue-Startpage:
+=============
 
 - [Blue Recolor](http://bokagha.github.io/Startpages/blue/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/blue) 
