@@ -5,10 +5,6 @@ Adapted from:
   
   [Gokoururi](https://github.com/gokoururi/homepage) and
   [JackosDev](https://github.com/JackosDev/Minimo-Homepage)
-  
-A simple startpage for desktop and mobile devices.
-
-You have to configure the links yourself.
 
 [Preview](http://bokagha.github.io/Kat-Startpage/startpage.html)
 
@@ -19,6 +15,10 @@ Update:
   	Enter any text you want in the box and it will be saved locally to your computer
   
 	Click "Clear" to clear what you have written.
+	
+	You have to configure the links yourself.
+	
+	Added live preview for default version.
 
 
 You can find the stickynote app here: https://github.com/Bokagha/StickyNote
