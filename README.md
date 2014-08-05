@@ -13,8 +13,8 @@ Kat-Startpage:
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/kat-startpage)
 
 Preview: 
-![Alt text](/preview.png)
-![Alt text](/sidebar.png)
+![Alt text](/kat-startpage-preview.png)
+![Alt text](/kat-startpage-sidebar-preview.png)
 
 Color Scheme is based on:
 ![Alt text](/gravityrush.png)
