@@ -21,7 +21,7 @@ Versions:
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/kat-startpage)
 
 Preview: 
-![Alt text](/kat-startpage-sidebar-preview.png)
+![Alt text](/kat-startpage-preview.png)
 
 - [No Note Preview](http://bokagha.github.io/Startpages/no-note/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/no-note)
