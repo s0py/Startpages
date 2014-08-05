@@ -19,7 +19,7 @@ Other Versions:
 
 - [Blue Recolor](http://bokagha.github.io/Kat-Startpage/default/startpage.html)
 
-Update:
+Updates:
 
   	Added a new side bar. Hover over dusty (the cat) and a sidebar will roll out.
   
@@ -31,10 +31,6 @@ Update:
 	
 	Added live preview for default version.
 
-
-You can find the stickynote app here: https://github.com/Bokagha/StickyNote
-
-This version doesn't have the StickyNote app sidebar: https://github.com/Bokagha/Kat-Startpage-NoNote-
 
 Preview: 
 ![Alt text](/preview.png)
