@@ -7,19 +7,19 @@ Adapted from:
 
 Base Versions:
 
-- [Default Version](http://bokagha.github.io/Kat-Startpage/default/startpage.html)
-/  [Code](https://github.com/Bokagha/Kat-Startpage/tree/gh-pages/default)
+- [Default Version](http://bokagha.github.io/Startpages/default/startpage.html)
+/  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/default)
 
-- [No Note Preview](http://bokagha.github.io/Kat-Startpage/no-note/startpage.html)
-/  [Code](https://github.com/Bokagha/Kat-Startpage/tree/gh-pages/no-note)
+- [No Note Preview](http://bokagha.github.io/Startpages/no-note/startpage.html)
+/  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/no-note)
 
-- [Sticky Note Preview](http://bokagha.github.io/Kat-Startpage/sticky-note/stickynote.html)
-/  [Code](https://github.com/Bokagha/Kat-Startpage/tree/gh-pages/sticky-note)
+- [Sticky Note Preview](http://bokagha.github.io/Startpages/sticky-note/stickynote.html)
+/  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/sticky-note)
 
 Other Versions:
 
-- [Blue Recolor](http://bokagha.github.io/Kat-Startpage/blue/startpage.html)
-/  [Code](https://github.com/Bokagha/Kat-Startpage/tree/gh-pages/blue) 
+- [Blue Recolor](http://bokagha.github.io/Startpages/blue/startpage.html)
+/  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/blue) 
 
 Updates:
 
