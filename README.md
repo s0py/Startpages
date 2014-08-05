@@ -52,8 +52,8 @@ Preview:
 
 Old Designs (Not Flexible):
 =============
-- [Simple Columns](http://bokagha.github.io/Kat-Startpage/simple/startpage.html)
-/  [Code](https://github.com/Bokagha/Kat-Startpage/tree/gh-pages/simple) 
+- [Simple Columns](http://bokagha.github.io/Startpages/simple/startpage.html)
+/  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/simple) 
 
 Preview: 
 ![Alt text](/Preview Images/simple-columns-preview.png)
