@@ -22,13 +22,13 @@ Kat-Startpage:
 Preview: 
 ![Alt text](/Preview Images/kat-startpage-preview.png)
 
-- [No Note Preview](http://bokagha.github.io/Startpages/no-note/startpage.html)
+- [No-Note Preview](http://bokagha.github.io/Startpages/no-note/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/no-note)
 
 Preview: 
 ![Alt text](/Preview Images/kat-startpage-no-note-preview.png)
 
-- [Sticky Note Preview](http://bokagha.github.io/Startpages/sticky-note/stickynote.html)
+- [Sticky-Note Preview](http://bokagha.github.io/Startpages/sticky-note/stickynote.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/sticky-note)
 
 Preview: 
@@ -37,7 +37,7 @@ Preview:
 Blue-Startpage:
 =============
 
-- [Blue Recolor](http://bokagha.github.io/Startpages/blue/startpage.html)
+- [Blue-Startpage](http://bokagha.github.io/Startpages/blue/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/blue) 
 
 
