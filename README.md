@@ -33,7 +33,7 @@ Preview:
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/sticky-note)
 
 Preview: 
-![Alt text](/Preview Images/sticky-note-preview.png)
+![Alt text](/Preview Images/Sticky-Note-Preview.png)
 
 Blue-Startpage:
 =============
