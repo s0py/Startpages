@@ -2,7 +2,9 @@ Startpages
 =============
 Major Startpages:
 - [Kat-Startpage](https://github.com/Bokagha/Startpages#kat-startpage)
-- 
+- 	No-Note
+- 	Stick-Note
+- [Blue-Startpage](https://github.com/Bokagha/Startpages#blue-startpage)
 
 Updates:
 
@@ -13,14 +15,6 @@ Updates:
   	
 Kat-Startpage:
 =============
-Versions:
-
-	Kat-Startpage
-	
-	No-Note
-	
-	Sticky-Note	    	
-
 - [Kat-Startpage](http://bokagha.github.io/Startpages/kat-startpage/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/kat-startpage)
 
