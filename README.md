@@ -30,7 +30,7 @@ Updates:
 	
 	You have to configure the links yourself.
 	
-	Added live preview for default version.
+	Added live preview for all version.
 
 
 Preview: 
