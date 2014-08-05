@@ -3,7 +3,7 @@ Kat-Startpage
 Adapted from:
 
   
-  [Gokoururi](https://github.com/gokoururi/homepage)
+  [Gokoururi](https://github.com/gokoururi/homepage) and
   [JackosDev](https://github.com/JackosDev/Minimo-Homepage)
   
 A simple startpage for desktop and mobile devices.
