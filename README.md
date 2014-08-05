@@ -1,14 +1,23 @@
 Startpages
 =============
-Adapted from:
+Updates:
 
-  [Gokoururi](https://github.com/gokoururi/homepage) /
-  [JackosDev](https://github.com/JackosDev/Minimo-Homepage)
+  	Added live previews for all versions.
+  	
+  	Merged all startpages to the startpages repository
+  	
+  	
+Kat-Startpage:
 
-Base Versions:
-
-- [Default Version](http://bokagha.github.io/Startpages/kat-startpage/startpage.html)
+- [Kat-Startpage](http://bokagha.github.io/Startpages/kat-startpage/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/kat-startpage)
+
+Preview: 
+![Alt text](/preview.png)
+![Alt text](/sidebar.png)
+
+Color Scheme is based on:
+![Alt text](/gravityrush.png)
 
 - [No Note Preview](http://bokagha.github.io/Startpages/no-note/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/no-note)
@@ -21,20 +30,7 @@ Other Versions:
 - [Blue Recolor](http://bokagha.github.io/Startpages/blue/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/blue) 
 
-Updates:
-
-  	Added a new side bar. Hover over dusty (the cat) and a sidebar will roll out.
-  
-  	Enter any text you want in the box and it will be saved locally to your computer
-  
-	Click "Clear" to clear what you have written.
-	
-	Added live previews for all versions.
 
 
-Preview: 
-![Alt text](/preview.png)
-![Alt text](/sidebar.png)
 
-Color Scheme is based on:
-![Alt text](/gravityrush.png)
+
