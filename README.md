@@ -1,20 +1,23 @@
 Kat-Startpage
 =============
 Adapted from:
+
   	[Gokoururi](https://github.com/gokoururi/homepage) 
+  	
   	[JackosDev](https://github.com/JackosDev/Minimo-Homepage)
 
 Base Versions:
+
 	[Default Preview](http://bokagha.github.io/Kat-Startpage/default/startpage.html)
 
-	[No Note Preview]()
+	[No Note Preview](http://bokagha.github.io/Kat-Startpage/default/startpage.html)
 
-	[Sticky Note Preview]()
+	[Sticky Note Preview](http://bokagha.github.io/Kat-Startpage/default/startpage.html)
 
 
 Other Versions:
 
-	[Blue Recolor]()
+	[Blue Recolor](http://bokagha.github.io/Kat-Startpage/default/startpage.html)
 
 Update:
 
