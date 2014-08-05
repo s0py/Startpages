@@ -1,13 +1,14 @@
 Startpages
 =============
-Major Startpages:
+Index:
+- [Updates](https://github.com/Bokagha/Startpages#Updates)
 - [Kat-Startpage](https://github.com/Bokagha/Startpages#kat-startpage)
   - 	No-Note
   - 	Sticky-Note
 - [Blue-Startpage](https://github.com/Bokagha/Startpages#blue-startpage)
 
 Updates:
-
+=============
   	Added live previews for all versions.
   	
   	Merged all startpages to the startpages repository
