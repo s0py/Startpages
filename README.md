@@ -7,8 +7,11 @@ Adapted from:
   [JackosDev](https://github.com/JackosDev/Minimo-Homepage)
 
 [Default Preview](http://bokagha.github.io/Kat-Startpage/default/startpage.html)
+
 [No Note Preview]()
+
 [Sticky Note Preview]()
+
 
 Other Versions:
 
