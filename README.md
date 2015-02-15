@@ -25,7 +25,7 @@ Updates:
 Blue 2.0-Startpage:
 =============
 
-- [Blue-Startpage](http://bokagha.github.io/Startpages/blue 2.0/startpage.html)
+- [Blue 2.0-Startpage](http://bokagha.github.io/Startpages/blue 2.0/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/blue 2.0) 
 
 Preview: 
