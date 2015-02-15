@@ -20,6 +20,25 @@ Updates:
   	Created an index for ease of use.
   	
   	
+
+Blue 2.0-Startpage:
+=============
+
+- [Blue-Startpage](http://bokagha.github.io/Startpages/blue 2.0/startpage.html)
+/  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/blue 2.0) 
+
+Preview: 
+![Alt text](/Preview Images/blue-startpage-preview.png)
+
+Blue-Startpage:
+=============
+
+- [Blue-Startpage](http://bokagha.github.io/Startpages/blue/startpage.html)
+/  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/blue) 
+
+Preview: 
+![Alt text](/Preview Images/blue-startpage-preview.png)
+
 Kat-Startpage:
 =============
 - [Kat-Startpage](http://bokagha.github.io/Startpages/kat-startpage/startpage.html)
@@ -39,15 +58,6 @@ Preview:
 
 Preview: 
 ![Alt text](/Preview Images/Sticky-Note-Preview.png)
-
-Blue-Startpage:
-=============
-
-- [Blue-Startpage](http://bokagha.github.io/Startpages/blue/startpage.html)
-/  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/blue) 
-
-Preview: 
-![Alt text](/Preview Images/blue-startpage-preview.png)
 
 Old Designs (Not Flexible):
 =============
