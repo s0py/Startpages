@@ -12,6 +12,8 @@ Index:
 
 Updates:
 =============
+    New Startpage added: Blue 2.0
+
   	Added live previews for all versions.
   	
   	Merged all startpages to the startpages repository.
@@ -29,7 +31,7 @@ Blue 2.0-Startpage:
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/blue 2.0) 
 
 Preview: 
-![Alt text](/Preview Images/blue-startpage-preview.png)
+![Alt text](/Preview Images/blue 2.0-startpage-preview.png)
 
 Blue-Startpage:
 =============
