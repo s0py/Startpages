@@ -24,22 +24,16 @@ Startpage v3.0:
 Startpage Archive:
 =============
 
-- [Blue 2.0-Startpage Preview](http://bokagha.github.io/Startpages/blue 2.0/startpage.html)
-||  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/blue 2.0) 
+- [Blue 2.0-Startpage Code](https://github.com/Bokagha/Startpages/tree/master/archive/blue%202.0) 
 
-- [Blue-Startpage Preview](http://bokagha.github.io/Startpages/blue/startpage.html)
-||  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/blue) 
+- [Blue-Startpage Code](https://github.com/Bokagha/Startpages/tree/master/archive/blue) 
 
-- [Kat-Startpage Preview](http://bokagha.github.io/Startpages/kat-startpage/startpage.html)
-||  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/kat-startpage)
+- [Kat-Startpage Code](https://github.com/Bokagha/Startpages/tree/master/archive/kat-startpage)
 
-- [No-Note Preview](http://bokagha.github.io/Startpages/no-note/startpage.html)
-||  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/no-note)
+- [No-Note Code](https://github.com/Bokagha/Startpages/tree/master/archive/no-note)
 
-- [Sticky-Note Preview](http://bokagha.github.io/Startpages/sticky-note/stickynote.html)
-||  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/sticky-note)
+- [Sticky-Note Code](https://github.com/Bokagha/Startpages/tree/master/archive/sticky-note)
 
-- [Simple Startpage Preview](http://bokagha.github.io/Startpages/simple/startpage.html)
-||  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/simple) 
+- [Simple Startpage Code](https://github.com/Bokagha/Startpages/tree/master/archive/simple) 
 
 
