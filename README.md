@@ -20,7 +20,7 @@ Startpage v3.0:
 =============
 
 This is a complete overhaul of Blue 2.0:
-  - Less CSS to handle the button effects
+  - Less CSS to handle the button effects (211 lines down to 125 lines)
   - Easier to read HTML 
   - Examples on how to add websites 
   - More code annotations  
