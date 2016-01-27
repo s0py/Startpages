@@ -27,7 +27,7 @@ This is a complete overhaul of Blue 2.0:
   - (ALMOST) Fully compliant HTML5 and CSS3 validation (<center> is just such a convenient  tag)
   - More blinking (RIP <blink></blink>)
 
- Links: 
+Links: 
 - [Live Preview](http://bokagha.github.io/Startpages/startpage-v3.0/index.html)
 - [Code](https://github.com/Bokagha/Startpages/tree/master/startpage%20v3.0)
 
