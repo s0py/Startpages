@@ -1,8 +1,8 @@
 Index:
 =============
-- Updates
-- Startpage v3.0
-- Startpage Archive
+- [Updates](https://github.com/Bokagha/Startpages#updates)
+- [Startpage v3.0](https://github.com/Bokagha/Startpages#startpage-v30)
+- [Startpage Archive](https://github.com/Bokagha/Startpages#startpage-archive)
   - Blue 2.0-Startpage
   - Blue-Startpage
   - Kat-Startpage
