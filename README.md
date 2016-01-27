@@ -22,16 +22,12 @@ Updates:
 Startpage Archive:
 =============
 
-Blue 2.0-Startpage:
-=============
 - [Blue 2.0-Startpage](http://bokagha.github.io/Startpages/blue 2.0/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/blue 2.0) 
-Blue-Startpage:
-=============
+
 - [Blue-Startpage](http://bokagha.github.io/Startpages/blue/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/blue) 
-Kat-Startpage:
-=============
+
 - [Kat-Startpage](http://bokagha.github.io/Startpages/kat-startpage/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/kat-startpage)
 
@@ -41,8 +37,6 @@ Kat-Startpage:
 - [Sticky-Note Preview](http://bokagha.github.io/Startpages/sticky-note/stickynote.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/sticky-note)
 
-Orginal Startpage (Not Flexible):
-=============
 - [Simple Columns](http://bokagha.github.io/Startpages/simple/startpage.html)
 /  [Code](https://github.com/Bokagha/Startpages/tree/gh-pages/simple) 
 
