@@ -28,9 +28,8 @@ This is a complete overhaul of Blue 2.0:
   - More blinking (RIP <blink></blink>)
 
   
-You can view the live preview [here](http://bokagha.github.io/Startpages/startpage-v3.0/index.html)
-
-You can view the code [here](https://github.com/Bokagha/Startpages/tree/master/startpage%20v3.0)
+- [Live Preview](http://bokagha.github.io/Startpages/startpage-v3.0/index.html)
+- [Code](https://github.com/Bokagha/Startpages/tree/master/startpage%20v3.0)
 
 Image Preview:
 [Alt text](/preview-image.png)
