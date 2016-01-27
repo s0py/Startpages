@@ -19,9 +19,9 @@ Updates:
 Startpage v3.0:
 =============
   	
+[Live Preview](http://bokagha.github.io/Startpages/startpage-v3.0/index.html)
   	
-  	
-Startpage Archive:
+Startpage Archive: startpage v3.0
 =============
 
 - [Blue 2.0-Startpage Code](https://github.com/Bokagha/Startpages/tree/master/archive/blue%202.0) 
