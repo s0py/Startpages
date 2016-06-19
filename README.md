@@ -1,4 +1,4 @@
-Index:
+Index
 =============
 - [Updates](https://github.com/Bokagha/Startpages#updates)
 - [Startpage v3.0](https://github.com/Bokagha/Startpages#startpage-v30)
@@ -10,13 +10,13 @@ Index:
   - Sticky-Note
   - Simple Startpage
 
-Updates:
+Updates
 =============
     Added Startpage v3.0
     Moved old Startpages to Startpage Archive
     New Startpage added: Blue 2.0
 
-Startpage v3.0:
+Startpage v3.0
 =============
 
 This is a complete overhaul of Blue 2.0:
@@ -34,7 +34,7 @@ Links:
 Image Preview:
 ![alt tag](preview-image.PNG "Homepage preview")
   	
-Startpage Archive: 
+Startpage Archive
 =============
 
 - [Blue 2.0-Startpage Code](https://github.com/Bokagha/Startpages/tree/master/archive/blue%202.0) 
