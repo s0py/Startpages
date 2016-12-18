@@ -32,7 +32,7 @@ Links:
 - [Code](https://github.com/Bokagha/Startpages/tree/master/startpage%20v3.0)
 
 Image Preview:
-![alt tag](preview-image.PNG "Homepage preview")
+![alt tag](preview.PNG "Homepage preview")
   	
 Startpage Archive
 =============
